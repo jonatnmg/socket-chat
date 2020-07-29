@@ -17,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1fIgCaCK35z4stVNiKNOfzpZshP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,7 +61,7 @@
       <workItem from="1595910894641" duration="1599000" />
       <workItem from="1595947096630" duration="975000" />
       <workItem from="1595990847769" duration="800000" />
-      <workItem from="1595991833663" duration="3914000" />
+      <workItem from="1595991833663" duration="4358000" />
     </task>
     <servers />
   </component>
@@ -69,6 +73,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="133" y="0" width="1099" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595911012563" />
+    <state x="509" y="234" key="Github.ShareDialog" timestamp="1595996196832">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="509" y="234" key="Github.ShareDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595996196832" />
     <state width="1339" height="38" key="GridCell.Tab.0.bottom" timestamp="1595995340267">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -85,6 +93,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1339" height="38" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595995340267" />
+    <state x="366" y="240" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1595996231976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="366" y="240" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595996231976" />
     <state x="255" y="159" width="840" height="1034" key="run.anything.popup" timestamp="1595911054406">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
